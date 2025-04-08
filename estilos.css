@@ -1,0 +1,15 @@
+.contenedor {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .item {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px;
+  }

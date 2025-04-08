@@ -1,0 +1,19 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+  }
+  
+  .grid-item {
+    background-color: lightgreen;
+    padding: 20px;
+  }
+  img {
+    clip-path: circle(50%);
+    align-content: center;
+    width: 200px;
+    height: 200px;
+  }
+  a:hover{
+    background-color: blueviolet;
+  }
